@@ -1,6 +1,6 @@
-self.importScripts('/https://jeftek.com/assets/js/data/swcache.js');
+self.importScripts('/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230423.153921';
+const cacheName = 'chirpy-20230423.154344';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {

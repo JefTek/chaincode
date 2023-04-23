@@ -1,40 +1,40 @@
 const resource = [
     /* --- CSS --- */
-    '/https://jeftek.com/assets/css/style.css',
+    '/assets/css/style.css',
 
     /* --- PWA --- */
-    '/https://jeftek.com/app.js',
-    '/https://jeftek.com/sw.js',
+    '/app.js',
+    '/sw.js',
 
     /* --- HTML --- */
-    '/https://jeftek.com/index.html',
-    '/https://jeftek.com/404.html',
+    '/index.html',
+    '/404.html',
 
     
-        '/https://jeftek.com/categories/',
+        '/categories/',
     
-        '/https://jeftek.com/tags/',
+        '/tags/',
     
-        '/https://jeftek.com/archives/',
+        '/archives/',
     
-        '/https://jeftek.com/about/',
+        '/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/https://jeftek.com/assets/img/favicons/android-chrome-192x192.png',
-        '/https://jeftek.com/assets/img/favicons/android-chrome-512x512.png',
-        '/https://jeftek.com/assets/img/favicons/apple-touch-icon.png',
-        '/https://jeftek.com/assets/img/favicons/favicon-16x16.png',
-        '/https://jeftek.com/assets/img/favicons/favicon-32x32.png',
-        '/https://jeftek.com/assets/img/favicons/favicon.ico',
-        '/https://jeftek.com/assets/img/favicons/mstile-150x150.png',
-        '/https://jeftek.com/assets/js/dist/categories.min.js',
-        '/https://jeftek.com/assets/js/dist/commons.min.js',
-        '/https://jeftek.com/assets/js/dist/misc.min.js',
-        '/https://jeftek.com/assets/js/dist/page.min.js',
-        '/https://jeftek.com/assets/js/dist/post.min.js'
+        '/assets/img/favicons/android-chrome-192x192.png',
+        '/assets/img/favicons/android-chrome-512x512.png',
+        '/assets/img/favicons/apple-touch-icon.png',
+        '/assets/img/favicons/favicon-16x16.png',
+        '/assets/img/favicons/favicon-32x32.png',
+        '/assets/img/favicons/favicon.ico',
+        '/assets/img/favicons/mstile-150x150.png',
+        '/assets/js/dist/categories.min.js',
+        '/assets/js/dist/commons.min.js',
+        '/assets/js/dist/misc.min.js',
+        '/assets/js/dist/page.min.js',
+        '/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */
