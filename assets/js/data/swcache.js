@@ -17,9 +17,9 @@ const resource = [
     
         '/video/',
     
-        '/archives/',
-    
         '/code/',
+    
+        '/archives/',
     
         '/about/',
     
