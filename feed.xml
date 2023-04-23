@@ -4,7 +4,7 @@
   <id>https://jeftek.com/</id>
   <title>JefTek.com</title>
   <subtitle>Landing page for Jef Kazimer (JefTek)</subtitle>
-  <updated>2023-04-23T18:07:53-05:00</updated>
+  <updated>2023-04-23T18:45:49-05:00</updated>
   <author>
     <name>Jef Kazimer</name>
     <uri>https://jeftek.com/</uri>
@@ -29,7 +29,7 @@
     <id>https://jeftek.com/posts/Report-Supicious-Activity-Preview/</id>
     <content src="https://jeftek.com/posts/Report-Supicious-Activity-Preview/" />
     <author>
-      <name>Jef Kazimer</name>
+      <name>jef</name>
     </author>
 
   
@@ -48,15 +48,11 @@
 
 
 
-      This was originally posted on Twitter but I wanted to capture it here for awareness:
-
-I wanted to highlight a new Preview feature in Entra:
-
-Report Suspicious Activity can elevate User Risk!
+      I wanted to highlight a new Preview feature in Entra: Report Suspicious Activity can elevate User Risk!
 
 When you enable this feature, if an end user chooses to report fraud/suspicious activity during an MFA prompt, you can raise their user risk so you can take additional actions for the user.
 
-But more impor...
+But more importantly,  it allows organizations to use risk based CA policies to allow the appropriate...
     </summary>
   
 
